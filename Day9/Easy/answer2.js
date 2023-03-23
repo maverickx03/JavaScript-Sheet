@@ -1,0 +1,1 @@
+/* A callback is a function which can be passed as parameter to other function. */

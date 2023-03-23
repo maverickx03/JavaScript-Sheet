@@ -1,0 +1,7 @@
+function circumOfCircle(r){
+    let pi = 3.14;
+    let circumference = 2 * pi * r;
+    return circumference;
+}
+
+console.log(circumOfCircle(5));
